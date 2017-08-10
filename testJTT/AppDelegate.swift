@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  testJTT
+//  testAPPjtt
 //
 //  Created by Артем Стратиенко on 10.08.17.
 //  Copyright © 2017 Артем Стратиенко. All rights reserved.
